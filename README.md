@@ -12,10 +12,10 @@
 
 ```bash
 // 编译
-g++ -std=c++11 *.cpp -o DailyTask.out
+g++ -std=c++11 *.cpp -o DailyTask
 
 // 运行
-./DailyTask.out
+./DailyTask
 ```
 
 ## 3 用法
