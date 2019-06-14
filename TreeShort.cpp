@@ -65,11 +65,10 @@ void TreeShort::print() const
 	}
 	cout << "|  " << "开始时间: " << btime << endl;
 	cout << "|  " << "完成期限: " << etime << endl;
+	int index = 0;
 	for (auto iter = task.cbegin(); iter != task.cend(); ++iter)
 	{
-		int index = 0;
-		cout << "|  " << index << ". ";
-		++index;
+		cout << "|  " << index++ << ". ";
 		(*iter)->print();
 	}
 	cout << "| --------------------------------------" << endl;
