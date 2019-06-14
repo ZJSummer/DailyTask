@@ -1,12 +1,10 @@
 # DailyTask
 
-[toc]
-
 ## 1 介绍
 
 **DailyTask**是用来管理任务的小型C++练习项目。任务有三种类型，可以增、删、改每个任务。
 
-![界面](doc/example.png)
+![界面](https://github.com/jerry-xiazj/DailyTask/blob/master/doc/example.PNG)
 
 ## 2 运行
 
