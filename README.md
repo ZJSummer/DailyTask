@@ -12,7 +12,7 @@
 
 ```bash
 // 编译
-g++ -std=c++11 *.cpp -o DailyTask
+g++ -std=c++11 ./source/*.cpp -o DailyTask
 
 // 运行
 ./DailyTask
