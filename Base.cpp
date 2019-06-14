@@ -208,7 +208,7 @@ void Base::interface()
         if(choice.compare("e") == 0)
         {
             cout<<"****************************************"<<endl
-                <<"*         DailyTask @ Jerry Xia        *"<<endl
+                <<"*       DailyTask v1.0 @ Jerry Xia     *"<<endl
                 <<"****************************************"<<endl;
             break;
         }
